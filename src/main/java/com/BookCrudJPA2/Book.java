@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.BookCrudJPA2;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

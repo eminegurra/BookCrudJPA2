@@ -1,6 +1,6 @@
 # Spring Boot + Spring Data JPA example
 
-This is the source code for [Spring Boot + Spring Data JPA example](https://mkyong.com/spring-boot/spring-boot-spring-data-jpa/)
+This is the source code for [Spring Boot + Spring Data JPA example]( https://github.com/eminegurra/BookCrudJPA2.git/)
 
 ## Technologies used:
 * Spring Boot 3.1.2
@@ -12,11 +12,14 @@ This is the source code for [Spring Boot + Spring Data JPA example](https://mkyo
 
 ## How to run it
 ```
-$ git clone https://github.com/mkyong/spring-boot.git
+$ git clone https://github.com/eminegurra/BookCrudJPA2.git
 
-$ cd spring-data-jpa
+$ cd BookCrudJPA2
 
 $ ./mvnw spring-boot:run
 ```
 
 
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)

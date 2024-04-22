@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.BookCrudJPA2;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
